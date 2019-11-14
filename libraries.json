@@ -54,5 +54,12 @@
 		"description": "Go Micro provides the core requirements for distributed systems development including RPC and Event driven communication.",
 		"image": "",
 		"language": "Go"
+	},
+	"Flutter": {
+		"imports": ["package:flutter/material.dart","package:flutter/cupertino.dart"],
+		"technologies": ["Mobile Development"],
+		"description": "Flutter is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png",
+		"language": "Dart"
 	}
 }
