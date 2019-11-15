@@ -12,5 +12,12 @@
 		"description": "Express is a minimal Node.js framework for web and mobile applications.",
 		"image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png",
 		"language": "JavaScript"
+	},
+	"Flutter": {
+		"imports": ["package:flutter/material.dart","package:flutter/cupertino.dart"],
+		"technologies": ["Mobile Development"],
+		"description": "Flutter is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+		"image": "",
+		"language": "Dart"
 	}
 }
